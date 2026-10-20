@@ -1,0 +1,10 @@
+numpy
+pandas>=2.0
+scipy
+scikit-learn>=1.4
+catboost>=1.2
+lightgbm>=4.0
+matplotlib
+seaborn
+tabulate
+jupyter

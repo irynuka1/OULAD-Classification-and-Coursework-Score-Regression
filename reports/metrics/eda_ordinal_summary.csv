@@ -1,0 +1,5 @@
+,non_null,unique,most_frequent,missing
+highest_education,18802,5,A Level or Equivalent,0
+imd_band,18028,10,30-40%,774
+age_band,18802,3,0-35,0
+clicks_freq_init,18742,3,high,60

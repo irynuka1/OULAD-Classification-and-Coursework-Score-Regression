@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+catboost_info/
+*.egg-info/
+.venv/
+archive/
+# Raw data is versioned as data/oauld_data.zip; unzip it into data/raw/
+data/raw/

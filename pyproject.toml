@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "oauld"
+version = "1.0.0"
+description = "Final-result classification and coursework-score regression on OULAD"
+requires-python = ">=3.10"
+dependencies = ["numpy", "pandas>=2.0", "scipy", "scikit-learn>=1.4", "catboost>=1.2",
+                "lightgbm>=4.0", "matplotlib", "seaborn", "tabulate"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
